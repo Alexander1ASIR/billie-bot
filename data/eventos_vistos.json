@@ -1,0 +1,29 @@
+{
+  "44470960-ee41-4f2c-9b7a-ef48e516df0a": {
+    "id": "44470960-ee41-4f2c-9b7a-ef48e516df0a",
+    "recinto": "Roskilde Festival",
+    "ubicacion": "Roskilde, Zealand",
+    "fecha": "2027-06-30",
+    "estado_venta": "Tickets",
+    "agotado": false,
+    "detalles": ""
+  },
+  "c8eebabd-8406-4235-8cf8-0ef71d5fb1db": {
+    "id": "c8eebabd-8406-4235-8cf8-0ef71d5fb1db",
+    "recinto": "BST Hyde Park",
+    "ubicacion": "London, England",
+    "fecha": "2027-07-03",
+    "estado_venta": "Sign Up",
+    "agotado": false,
+    "detalles": ""
+  },
+  "dbfffaf7-ba62-4655-90f1-97197e2677f7": {
+    "id": "dbfffaf7-ba62-4655-90f1-97197e2677f7",
+    "recinto": "Glastonbury Festival",
+    "ubicacion": "Glastonbury, England",
+    "fecha": "2027-06-23",
+    "estado_venta": "Tickets",
+    "agotado": false,
+    "detalles": ""
+  }
+}
