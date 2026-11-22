@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+
+# Secretos y credenciales (NUNCA subir a Git)
+.env
+
+# Datos locales generados por el bot
+data/
+
+# Caché de Python
+__pycache__/
+*.pyc
